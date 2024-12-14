@@ -205,7 +205,7 @@ A:
 Q: Can modules satisfy more than one interface?
 A:
 
-Q: What is representation independence, give a basic example for a stack ?
+Q: Define representation independence, give a basic example for a stack ?
 A:
 
 
